@@ -1,2 +1,2 @@
 # hello-world
-GitHub Workshop, CICS 2023
+GitHub Workshop, CICS Week 2023
